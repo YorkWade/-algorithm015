@@ -22,7 +22,7 @@
 
   
 
-  ![](https://github.com/YorkWade/-algorithm015/tree/master/Week_010/image/data_structure.bmp)
+  ![](https://raw.githubusercontent.com/YorkWade/-algorithm015/master/Week_010/image/data_structure.bmp)
 
   
 
@@ -208,6 +208,6 @@ while left <= right:
 
 * 排序
 
-  ![](https://github.com/YorkWade/-algorithm015/tree/master/Week_010/image/sort.bmp)
+  ![](https://raw.githubusercontent.com/YorkWade/-algorithm015/master/Week_010/image/sort.bmp)
 
 * 字符串 常常和动态规划联系一起
